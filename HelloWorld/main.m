@@ -18,7 +18,7 @@ int main(int argc, const char * argv[])
         NSLog(@"haha");
         NSLog(@"fuck");
         NSLog(@"end");
-        
+        NSLog(@"end2");
     }
     return 0;
 }
