@@ -20,6 +20,7 @@ int main(int argc, const char * argv[])
         NSLog(@"end");
         NSLog(@"end2");
         NSLog(@"end3");
+        NSLog(@"end4");
     }
     return 0;
 }
